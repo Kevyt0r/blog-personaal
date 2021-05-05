@@ -164,7 +164,7 @@ color: #242423;
 /* seccion home */
 .home {
     display: flex;
-    background-image: url('home.png');
+    background-image: url('./home.png');
     height: 100vh;
     color: white;
     min-height: 500px;
