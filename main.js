@@ -28,31 +28,31 @@ let track = document.createElement('audio');
 let All_song = [
    {
      name: "Holy",
-     path: "Music/Justin Bieber - Holy ft. Chance The Rapper.mp3",
+     path: "Justin Bieber - Holy ft. Chance The Rapper.mp3",
      img: "holy.jpg",
      singer: "Justine Bieber ft. Chance The Rapper"
    },
    {
      name: "Alone",
-     path: "Music/Marshmello - Alone.mp3",
+     path: "Marshmello - Alone.mp3",
      img: "alone.jpg",
      singer: "Marshmello"
    },
    {
      name: "Monster",
-     path: "Music/Shawn Mendes, Justin Bieber - Monster.mp3",
+     path: "Shawn Mendes, Justin Bieber - Monster.mp3",
      img: "Monster.jpg",
      singer: "Shawn Mendes - Justine Bieber"
    },
    {
      name: "Call Out My Name",
-     path: "Music/The Weeknd - Call Out My Name.mp3",
+     path: "The Weeknd - Call Out My Name.mp3",
      img: "Call-Out-My-Name.jpg",
      singer: "The Weeknd"
    },
    {
      name: "Past Life",
-     path: "Music/Trevor Daniel, Selena Gomez - Past Life.mp3",
+     path: "Trevor Daniel, Selena Gomez - Past Life.mp3",
      img: "Past-life.jpg",
      singer: "Trevor Daniel - Selena Gomez"
    }
