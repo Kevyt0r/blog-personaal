@@ -591,6 +591,7 @@ section{
     transform: translateX(-50%);
 }    
 .games .title::after{
+    font-family: 'Poppins', sans-serif;
     content: "Games";
     position: absolute;
     bottom: -14px;
@@ -758,6 +759,7 @@ footer span a:hover{
     .home .max-header{
         margin-left: 0px;
     }
+    
     .skill-bars{
         width: 600px;
       }
@@ -853,14 +855,34 @@ footer span a:hover{
     .skill-bars{
         width: 700px;
       }
+    
+    .box1{
+        width: 150px;
+        height: 180px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.197);
+        background: #fff;
+        overflow: hidden;
+        margin: 20px;
+        cursor: pointer;
+        border-radius: 15px;
+    }
 }
-
 @media (max-width: 770px){
     .skill-bars{
         width: 590px;
       }
       .skills-content p{
         width: 590px;
+    }
+    .box1{
+        width: 150px;
+        height: 165px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.197);
+        background: #fff;
+        overflow: hidden;
+        margin: 20px;
+        cursor: pointer;
+        border-radius: 15px;
     }
 }
 
@@ -883,6 +905,16 @@ footer span a:hover{
       .skills-content p{
           width: 580px;
       }
+      .box1{
+        width: 150px;
+        height: 150px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.197);
+        background: #fff;
+        overflow: hidden;
+        margin: 20px;
+        cursor: pointer;
+        border-radius: 15px;
+    }
 }
 @media (max-width: 630px){
     .skill-bars{
@@ -900,6 +932,16 @@ footer span a:hover{
     }
     .about .about-content .right .text{
         text-align: center;
+    }
+    .box1{
+        width: 150px;
+        height: 135px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.197);
+        background: #fff;
+        overflow: hidden;
+        margin: 20px;
+        cursor: pointer;
+        border-radius: 15px;
     }
 }
 @media (max-width: 560px){
