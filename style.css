@@ -435,10 +435,10 @@ section{
     background: rgb(58, 134, 255);
 }
 .skills-content .right .html::before{
-    width: 37%;
+    width: 95%;
 }
 .skills-content .right .css::before{
-    width: 58%;
+    width: 60%;
 }
 .skills-content .right .js::before{
     width: 10%;
@@ -447,7 +447,7 @@ section{
     width: 2%;
 }
 .skills-content .right .mysql::before{
-    width: 0%;
+    width: 2%;
 }
 
 /* skills bars animated */
